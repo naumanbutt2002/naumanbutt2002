@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naumankasmiri and Computer Science student.
+- 👋 Hi, I’m @naumankasmiri a Computer Science student.
 - 👀 I’m interested in learning programming languages.
 - 🌱 I’m had learned GW-Basic, web designing (html, css, bootstrap) , C and C++ and Assembly language.
 -     Now, I am learning DBMS (My SQL), android development (JAVA).
