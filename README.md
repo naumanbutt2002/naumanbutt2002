@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naumanbutt2002 a Computer Science student.
 - 👀 I’m interested in learning programming languages.
 - 🌱 I’m had learned C and C++,C#.Net with SQL,web designing (html, css, bootstrap),JAVA, Assembly language and GW-Basic.
--     Now, I am learning,python.
+-     Now, I am learning and working on MERN stack.
 - 💞️ I’m looking to collaborate on differnet fields of computer science.
 - 📫 You can contact with me via my email.
 
